@@ -2,7 +2,7 @@
 
 Learning CSS and HTML project with focusing on css grid. Fully responsive website.
 
-https://nexter-5e681.web.app/
+Demo: https://nexter-5e681.web.app/
 
 <br/>
 
